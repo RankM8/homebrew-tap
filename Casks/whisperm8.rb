@@ -1,6 +1,6 @@
 cask "whisperm8" do
-  version "2.17.0"
-  sha256 "5f39fdd0a0134330822c9ca0e29d8cccd5dc14d055c2a44b98cc5d0d8290b8be"
+  version "2.18.0"
+  sha256 "aa0a5cfac3445a4d101f375876ff4b3421ee1818d21ef8728daf19b896b3597d"
 
   url "https://github.com/RankM8/WhisperM8/releases/download/v#{version}/WhisperM8-#{version}.dmg"
   name "WhisperM8"
